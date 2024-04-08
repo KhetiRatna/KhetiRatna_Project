@@ -6,6 +6,7 @@ function App() {
   return<>
     {/* <SignIn/> */}
     <HomePage/>
+    <h1>check password</h1>
   </>
 }
 
